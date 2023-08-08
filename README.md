@@ -1,5 +1,4 @@
-# **Deep-Learning-Challenge**
-## Module 21
+# **Deep-Learning-Challenge (Module 21)**
 
 ## **Overview:** 
 - In this project, I explored the process of building a model to predict the potential success of future applicants. The answers below describe the mentality and tactics used to achieve this goal. 
